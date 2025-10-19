@@ -1,0 +1,5 @@
+-- 1. you must be very carefull
+-- 2. DON"T forget the semicolon
+-- 3. this is easy peasy
+-- 4. i think i almost edited the database
+-- 5. I DID IT!! 
